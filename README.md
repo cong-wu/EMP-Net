@@ -3,7 +3,7 @@ The Official implementation for [Efficient Few-Shot Action Recognition via Multi
 
 - [Prerequisite](#Prerequisite)
 - [Data](#Data)
-- [Running](#Running&Testing)
+- [Running](#Running)
 - [Citation](#Citation)
 - [Acknowledgement](#Acknowledgement)
 - [Contact](#Contact)
